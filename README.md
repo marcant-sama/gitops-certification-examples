@@ -1,5 +1,7 @@
 # Codefresh GitOps Certification examples
 
+*DEMO APP*
+
 This repository contains examples for the ArgoCD/GitOps
 certification workshops.
 
